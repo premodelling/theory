@@ -7,7 +7,6 @@
   * [Fundamentals of Data Science](#fundamentals-of-data-science)
 * [Reading Material](#reading-material)
 
-
 <br>
 <br>
 
@@ -42,7 +41,6 @@
 * Pre-recorded material, Friday afternoon Q&A and/or guest speaker
 * 15 October 2021 - 12 November 2021
 
-
 <br>
 
 **Sessions by week**
@@ -54,7 +52,6 @@
 3. Big data technologies
 4. Feature engineering and model fitting / Experiment design
 5. Testing hypotheses / Visualisation
-
 
 <br>
 
